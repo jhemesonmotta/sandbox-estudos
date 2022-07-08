@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+\
+java:S2184"ACast one of the operands of this division operation to a "float".(ÙÄå¸ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸©ˆ¦úÿÿÿÿ
+k
+java:S1612"NReplace this lambda with method reference 'StudentGrades::defineStudentGrade'.(ì¼ë§8þ³âÇ”0
+A
+java:S2185"&Remove this silly call to "Math.round"(ÙÄå¸ýÿÿÿÿ
