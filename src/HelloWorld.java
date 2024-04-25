@@ -4,7 +4,6 @@ public class HelloWorld {
     }
 
     public static void main (String[] args) {
-        // keep this function call here
         System.out.print(helloWorld());
     }
 }
